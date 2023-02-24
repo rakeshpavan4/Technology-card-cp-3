@@ -1,0 +1,46 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+  background-color: white;
+  height: 300px;
+  width: 500px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  list-style-type: none;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+  background-color: white;
+  height: 300px;
+  width: 500px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  list-style-type: none;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+  background-color: white;
+  height: 300px;
+  width: 500px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  list-style-type: none;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+  background-color: white;
+  height: 300px;
+  width: 500px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  list-style-type: none;
+}
+.image {
+  padding-left: 350px;
+}
